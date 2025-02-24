@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E27D-E2EA
+
+ Directory of C:\Users\Dell\Desktop\Study Material\MyTestRepo
+
+24-02-2025  22:17    <DIR>          .
+24-02-2025  22:17    <DIR>          ..
+24-02-2025  22:17                 0 Firtfile.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  148,517,150,720 bytes free
